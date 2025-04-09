@@ -1,6 +1,6 @@
-2025-04-08 17:59:22.046234 - Received CBT.V508.FILE033.PDS from FILE033.XMI 
-2025-04-08 17:59:22.048105 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/$$$#DATE
-2025-04-08 17:59:22.048783 - Found @FILE033.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/@FILE033
-2025-04-08 17:59:22.049610 - Found JESSONG.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/JESSONG
-2025-04-08 17:59:22.051136 - Found SONG2004.doc (application/msword) in CBT.V508.FILE033.PDS, moved to docs/SONG2004.doc
-2025-04-08 17:59:22.052804 - Found SONG2009.doc (application/msword) in CBT.V508.FILE033.PDS, moved to docs/SONG2009.doc
+2025-04-08 22:29:50.803436 - Received CBT.V508.FILE033.PDS from FILE033.XMI 
+2025-04-08 22:29:50.805084 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/$$$#DATE
+2025-04-08 22:29:50.805794 - Found @FILE033.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/@FILE033
+2025-04-08 22:29:50.806636 - Found JESSONG.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/JESSONG
+2025-04-08 22:29:50.808145 - Found SONG2004.doc (application/msword) in CBT.V508.FILE033.PDS, moved to docs/SONG2004.doc
+2025-04-08 22:29:50.809571 - Found SONG2009.doc (application/msword) in CBT.V508.FILE033.PDS, moved to docs/SONG2009.doc
